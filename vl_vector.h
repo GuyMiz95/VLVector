@@ -1,6 +1,6 @@
 
-#ifndef EX6__VL_VECTOR_H_
-#define EX6__VL_VECTOR_H_
+#ifndef VL_VECTOR_H_
+#define VL_VECTOR_H_
 
 #include <cstddef>
 #include <iterator>
@@ -485,4 +485,4 @@ class VLVector {
 
 };
 
-#endif //EX6__VL_VECTOR_H_
+#endif VL_VECTOR_H_
